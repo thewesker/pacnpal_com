@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PacNPal.com</title>
+    <link href="https://www.pacnpal.com/feed.xml" rel="self" />
+    <link href="https://www.pacnpal.com" />
+    <updated>2023-05-08T21:16:16-04:00</updated>
+    <author>
+        <name>PacNPal</name>
+    </author>
+    <id>https://www.pacnpal.com</id>
+
+    <entry>
+        <title>PacNPal.com</title>
+        <author>
+            <name>PacNPal</name>
+        </author>
+        <link href="https://www.pacnpal.com/pacnpalcom.html"/>
+        <id>https://www.pacnpal.com/pacnpalcom.html</id>
+
+        <updated>2023-05-08T21:16:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                    A website as seen on the internet.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">A website as seen on the internet.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
